@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/pqueue-tiny/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/pqueue-tiny/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/pqueue-tiny.svg)](https://www.npmjs.com/package/pqueue-tiny)
+[![downloads](https://img.shields.io/npm/dm/pqueue-tiny.svg)](https://www.npmjs.com/package/pqueue-tiny)
+[![bundle](https://img.shields.io/bundlejs/size/pqueue-tiny)](https://bundlejs.com/?q=pqueue-tiny)
+
 A tiny concurrency-limited promise queue with priorities, `AbortSignal` support, and an `onIdle()` awaitable. Zero dependencies.
 
 ```ts
