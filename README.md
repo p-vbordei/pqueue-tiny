@@ -1,5 +1,7 @@
 # pqueue-tiny
 
+[![ci](https://github.com/p-vbordei/pqueue-tiny/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/pqueue-tiny/actions/workflows/ci.yml)
+
 A tiny concurrency-limited promise queue with priorities, `AbortSignal` support, and an `onIdle()` awaitable. Zero dependencies.
 
 ```ts
