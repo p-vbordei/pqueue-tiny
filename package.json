@@ -1,6 +1,6 @@
 {
   "name": "pqueue-tiny",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Tiny concurrency-limited promise queue with priorities, AbortSignal support, and onIdle(). Zero dependencies.",
   "keywords": [
     "queue",
